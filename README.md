@@ -1,5 +1,5 @@
 
-<p>Hello, I'm Camilla.<br>Welcome to my GitHub!<br><br>
+<p>Hello, I'm Camilla. Welcome to my GitHub!<br>I'm currently learning about front-end development.<br><br>
     <a href="https://www.linkedin.com/in/camillamendess/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
