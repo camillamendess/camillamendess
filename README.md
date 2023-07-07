@@ -22,15 +22,8 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=vue-dark" />
+<img height="50%" width="34%" src="https://github-readme-stats.vercel.app/api?username=camillamendess&show_icons=true&theme=tokyonight"/>    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight" />
 
 
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
