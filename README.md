@@ -1,6 +1,6 @@
 
-<p>Olá, eu sou Camilla. Bem vindo(a) ao meu GitHub!<br>Atualmente estou aprendendo sobre desenvolvimento Front-End.<br><br>
-    <i>Hello, I'm Camilla. Welcome to my GitHub!<br>I'm currently learning about front-end development.<i><br><br>
+<p>Olá, eu sou Camilla, estudante de Ciência da Computação. Bem vindo(a) ao meu GitHub!<br>Atualmente estou aprendendo sobre desenvolvimento Front-End.<br><br>
+    <i>Hello, I'm Camilla, Computer Science student. Welcome to my GitHub!<br>I'm currently learning about front-end development.<i><br><br>
     <a href="https://www.linkedin.com/in/camillamendess/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
