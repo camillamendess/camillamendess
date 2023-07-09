@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
-<img height="50%" width="34%" src="https://github-readme-stats.vercel.app/api?username=camillamendess&show_icons=true&theme=tokyonight"/>    
+<img width="35%" src="https://github-readme-stats.vercel.app/api?username=camillamendess&show_icons=true&theme=tokyonight"/><br>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight" />
 
 
