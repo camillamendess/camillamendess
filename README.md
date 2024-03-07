@@ -28,6 +28,7 @@
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 ![Shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)
+![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight"/>
