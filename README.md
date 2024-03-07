@@ -18,8 +18,9 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 
 ### Technologies & Frameworks
 
