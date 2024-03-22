@@ -27,10 +27,10 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)
 ![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)
 
-<img src="https://github-readme-stats.vercel.app/api/?username=camillamendess&layout=compact&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight"/>
 
 
