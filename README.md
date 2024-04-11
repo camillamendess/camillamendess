@@ -31,7 +31,8 @@
 ![Shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)
 ![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
 
 
 
