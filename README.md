@@ -22,6 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight"/>
+
 ### Technologies & Frameworks
 
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
@@ -33,6 +35,9 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
+
+
+
 
 
 
