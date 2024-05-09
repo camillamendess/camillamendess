@@ -19,9 +19,9 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight"/>
 
