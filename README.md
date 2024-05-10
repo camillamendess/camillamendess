@@ -1,6 +1,6 @@
 
-<p>Olá, eu sou Camilla, estudante de Ciência da Computação. Bem vindo(a) ao meu GitHub!<br>Atualmente estou aprendendo sobre desenvolvimento web.<br><br>
-    <i>Hello, I'm Camilla, Computer Science student. Welcome to my GitHub!<br>I'm currently learning about web development.<i><br>
+<p>Olá, eu sou Camilla, estudante de Ciência da Computação. Bem vindo(a) ao meu GitHub!<br>Atualmente estou aprendendo sobre desenvolvimento web, aprofundando em tecnologias como Node.js, React e TypeScript.<br><br>
+    <i>Hello, I'm Camilla, Computer Science student. Welcome to my GitHub!<br>I'm currently learning about web development, delving deeper into technologies such as Node.js, React and TypeScript.<i><br>
     <h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/camillamendess/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
