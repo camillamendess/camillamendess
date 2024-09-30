@@ -1,8 +1,8 @@
 
 <p>Olá, eu sou Camilla, estudante de Ciência da Computação. Bem vindo(a) ao meu GitHub!<br>Atualmente estou aprendendo sobre desenvolvimento web, aprofundando em tecnologias como HTML, CSS, TypeScript, Node.js e React.<br>
-    <p><a href="https://camillamendesdev.vercel.app" target="_blank">Clique aqui</a> para saber mais sobre mim em meu site.</p>
+    <p><a href="https://camillamendesdev.vercel.app" target="_blank">Clique aqui</a> para saber mais sobre mim em meu portfólio.</p>
     <i>Hello, I'm Camilla, Computer Science student. Welcome to my GitHub!<br>I'm currently learning about web development, delving deeper into technologies such as HTML, CSS, TypeScript, Node.js and React.<i><br><br>
-        <i><a href="https://camillamendesdev.vercel.app" target="_blank">Click here</a> to learn more about me on my website.</i>
+        <i><a href="https://camillamendesdev.vercel.app" target="_blank">Click here</a> to learn more about me in my portfolio.</i>
     <h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/camillamendess/">
         <img src="https://img.shields.io/badge/LinkedIn-312E38?style=flat-square&logo=linkedin" alt="LinkedIn">
