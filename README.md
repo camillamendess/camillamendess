@@ -1,7 +1,6 @@
-
-<p>Olá, eu sou Camilla. Bem vindo(a) ao meu GitHub!<br>Estou continuamente me aprofundando em desenvolvimento web, trabalhando com tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js e React. Atualmente, estou explorando mais sobre Next.js e Tailwind CSS, além de buscar entender fundamentos de DevOps.<br>
+<p>Olá, eu sou Camilla. Bem vindo(a) ao meu GitHub!<br>Estou continuamente me aprofundando em desenvolvimento web, me especializando em tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js e React. Atualmente, estou explorando mais sobre Next.js e Tailwind CSS, além de buscar entender fundamentos de DevOps.<br>
     <br>
-        <i>Hello, I am Camilla. Welcome to my GitHub! I am continually deepening my knowledge in web development, working with technologies such as HTML, CSS, JavaScript, TypeScript, Node.js, and React. Currently, I am exploring more about Next.js and Tailwind CSS, as well as seeking to understand the fundamentals of DevOps.<i><br>
+        <i>Hello, I am Camilla. Welcome to my GitHub! I am continually deepening my knowledge in web development, specializing in technologies such as HTML, CSS, JavaScript, TypeScript, Node.js, and React. Currently, I am exploring more about Next.js and Tailwind CSS, as well as seeking to understand the fundamentals of DevOps.<i><br>
     <h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/camillamendess/">
         <img src="https://img.shields.io/badge/LinkedIn-312E38?style=flat-square&logo=linkedin" alt="LinkedIn">
