@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/python-312E38?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-312E38?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-312E38?style=for-the-badge&logo=c%2B%2B)
+![PHP](https://img.shields.io/badge/php-312E38?style=for-the-badge&logo=php)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight"/>
 
