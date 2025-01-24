@@ -1,5 +1,5 @@
 <p>Olá, eu sou Camilla! Bem-vindo(a) ao meu GitHub! <br>Aqui você encontra projetos que refletem minha paixão e dedicação ao desenvolvimento full stack.<br>
-    Atualmente, estou me especializando em tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React e Next.js. Também conto com habilidades em TailwindCSS, Styled Components, Redux e Figma.<br>
+    Atualmente, estou me especializando em tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React, Next.js, MySQL e MongoDB. Também conto com habilidades em TailwindCSS, Styled Components, Redux e Figma.<br>
     <br>
     <i>Hello, I am Camilla! Welcome to my GitHub! <br>Here you’ll find projects that reflect my passion and dedication to full stack development.<br>
     I’m currently specializing in technologies such as HTML, CSS, JavaScript, TypeScript, Node.js, React, and Next.js. I also have skills in TailwindCSS, Styled Components, Redux and Figma.</i><br>
@@ -37,11 +37,12 @@
 ![React](https://img.shields.io/badge/react-312E38?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-312E38?style=for-the-badge&logo=nextdotjs)
 ![MongoDB](https://img.shields.io/badge/mongodb-312E38?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-312E38?style=for-the-badge&logo=mysql)
 ![Shopify](https://img.shields.io/badge/shopify-312E38?style=for-the-badge&logo=shopify)
 ![WordPress](https://img.shields.io/badge/wordpress-312E38?style=for-the-badge&logo=wordpress)
 ![Styled Components](https://img.shields.io/badge/styled%20components-312E38?style=for-the-badge&logo=styled-components)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-312E38?style=for-the-badge&logo=tailwind-css)
-
+![Redux](https://img.shields.io/badge/redux%20-312E38?style=for-the-badge&logo=redux)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
