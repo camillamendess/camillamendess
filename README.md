@@ -1,8 +1,8 @@
 <p>Olá, eu sou Camilla! Bem-vindo(a) ao meu GitHub! <br>Aqui você encontra projetos que refletem minha paixão e dedicação ao desenvolvimento full stack.<br>
-    Atualmente, estou me especializando em tecnologias como HTML, CSS, JavaScript, TypeScript, Node.js, React, Next.js, MySQL e MongoDB. Também conto com habilidades em TailwindCSS, Styled Components, Redux e Figma.<br>
+    Atualmente, estou me especializando em tecnologias como TypeScript, Node.js com Express, React, Next.js, MySQL, Docker, TailwindCSS e Figma.<br>
     <br>
     <i>Hello, I am Camilla! Welcome to my GitHub! <br>Here you’ll find projects that reflect my passion and dedication to full stack development.<br>
-    I’m currently specializing in technologies such as HTML, CSS, JavaScript, TypeScript, Node.js, React, and Next.js. I also have skills in TailwindCSS, Styled Components, Redux and Figma.</i><br>
+    I’m currently specializing in technologies such as TypeScript, Node.js with Express, React, Next.js, MySQL, Docker, TailwindCSS and Figma.</i><br>
     <h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/camillamendess/">
         <img src="https://img.shields.io/badge/LinkedIn-312E38?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -43,6 +43,7 @@
 ![Styled Components](https://img.shields.io/badge/styled%20components-312E38?style=for-the-badge&logo=styled-components)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-312E38?style=for-the-badge&logo=tailwind-css)
 ![Redux](https://img.shields.io/badge/redux%20-312E38?style=for-the-badge&logo=redux)
+![Docker](https://img.shields.io/badge/docker%20-312E38?style=for-the-badge&logo=docker)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
