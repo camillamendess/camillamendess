@@ -43,7 +43,6 @@
 ![Redux](https://img.shields.io/badge/redux%20-312E38?style=for-the-badge&logo=redux)
 ![Docker](https://img.shields.io/badge/docker%20-312E38?style=for-the-badge&logo=docker)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camillamendess&layout=donut&theme=tokyonight" height="180em"/>
 
 <br><i><a href="https://camillamendesdev.vercel.app" target="_blank">Click here</a> to learn more about me in my portfolio.</i>
