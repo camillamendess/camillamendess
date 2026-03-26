@@ -1,8 +1,8 @@
 <p>Olá, eu sou Camilla! Bem-vindo(a) ao meu GitHub! <br>Aqui você encontra projetos que refletem minha paixão e dedicação ao desenvolvimento full stack.<br>
-    Atualmente, estou me especializando em tecnologias como TypeScript, Node.js com Express, React, Next.js, MySQL, Docker, TailwindCSS e Figma.<br>
+    Atualmente, estou me especializando em tecnologias como TypeScript, Node.js, Nest.js, React, Next.js e TailwindCSS.<br>
     <br>
     <i>Hello, I am Camilla! Welcome to my GitHub! <br>Here you’ll find projects that reflect my passion and dedication to full stack development.<br>
-    I’m currently specializing in technologies such as TypeScript, Node.js with Express, React, Next.js, MySQL, Docker, TailwindCSS and Figma.</i><br>
+    I’m currently specializing in technologies such as TypeScript, Node.js, Nest.js, React, Next.js and TailwindCSS.</i><br>
     <h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/camillamendess/">
         <img src="https://img.shields.io/badge/LinkedIn-312E38?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -23,9 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-312E38?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-312E38?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/java-312E38?style=for-the-badge&logo=openjdk)
-![PHP](https://img.shields.io/badge/php-312E38?style=for-the-badge&logo=php)
 ![C++](https://img.shields.io/badge/C++-312E38?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/python-312E38?style=for-the-badge&logo=python)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillamendess&layout=compact&theme=tokyonight"/>
 
